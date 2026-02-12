@@ -14,10 +14,10 @@ I’m a Software Engineering student at Tecnológico de Monterrey focused on bui
 
 I’ve worked on projects involving:
 
-- 🔹 LLM integration for automated code feedback  
-- 🔹 Machine learning models deployed to mobile (CoreML)  
-- 🔹 Role-based authentication and moderation systems  
-- 🔹 Cloud deployment using Docker, GCP & AWS  
+ 🔹 LLM integration for automated code feedback  
+ 🔹 Machine learning models deployed to mobile (CoreML)  
+ 🔹 Role-based authentication and moderation systems  
+ 🔹 Cloud deployment using Docker, GCP & AWS  
 
 I enjoy combining engineering with creativity — whether through interactive platforms, game development, or AI-driven applications.
 
